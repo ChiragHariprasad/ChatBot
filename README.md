@@ -1,4 +1,4 @@
-###Help Needed: CommunityBot Chatbot Project
+#Help Needed: CommunityBot Chatbot Project
 I am working on a chatbot project called CommunityBot, designed to help users engage with their local community. However, I’m encountering issues with certain aspects of the bot, and I would appreciate any help or suggestions to make it work better.
 
 Current Issues
