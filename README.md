@@ -19,8 +19,8 @@ Project Files
 intents.json: Contains the data with tags, patterns, and responses used to train the model.
 chatbot.py: The main script for running the chatbot and interacting with users.
 train.py: Script for training the model using the data in intents.json.
-chatbot_model.h5: The trained machine learning model file.
-words.pkl and classes.pkl: Files containing tokenized words and classes used in training.
+chatbot_model.h5: The trained machine learning model file.(please to run the training file for this)
+words.pkl and classes.pkl: Files containing tokenized words and classes used in training.(please to run the training file for this)
 
 ## What I Have Tried
 I have already trained the model using the data in intents.json, but the bot still provides inaccurate responses.
